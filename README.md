@@ -1,2 +1,2 @@
 # Excel-Dashboard-Project
-Interactive Excel  dashboard analyzing retail sales data
+Interactive Excel  dashboard analyzing Blinkit sales data
