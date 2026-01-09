@@ -1,3 +1,4 @@
+![Dashboard Preview](Blinkit analysis.png)
 # Blinkit Grocery Sales Excel Dashboard
 
 ## Project Overview
